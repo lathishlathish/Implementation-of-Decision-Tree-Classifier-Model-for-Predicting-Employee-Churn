@@ -1,4 +1,4 @@
-# Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn
+# EXP :6 Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn
 
 ## AIM:
 To write a program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
@@ -18,8 +18,10 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 
 
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
+```
 Developed by:LATHISH KANNA.M
 RegisterNumber:  212222230073
+```
 ```
 
 import pandas as pd
@@ -58,19 +60,12 @@ accuracy
 dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ```
-
 ## Output:
-
 ![image](https://github.com/lathishlathish/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120359170/3960cda3-960c-4284-8f2f-44414d7f462b)
 ![image](https://github.com/lathishlathish/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120359170/b05fb0ae-4984-4493-90d1-beaf2bd7faf4)
 ![image](https://github.com/lathishlathish/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120359170/73daa933-1584-4b7f-81ab-bd5a926b6eaf)
 ![image](https://github.com/lathishlathish/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120359170/0f4b4d17-05b4-4f41-8da1-8c8ab5a0a492)
 ![image](https://github.com/lathishlathish/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120359170/bde3dd8b-b6f6-49c6-a2c6-0e8de4d91017)
 ![image](https://github.com/lathishlathish/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120359170/5eeb15ed-eecb-448d-8ca0-bf4839197d22)
-
-
-
-
-
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
